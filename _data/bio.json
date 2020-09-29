@@ -44,24 +44,18 @@
   },
   "interests": [
     {
-      "name": "video games",
+      "name": "backend architecture",
       "keywords": [
-        "Playing and Creating",
-        "Casual Twitch Streamer"
       ]
     },
     {
-      "name": "music",
+      "name": "scalability",
       "keywords": [
-        "Guitar",
-        "avid rap, metal, and country fan"
       ]
     },
     {
-      "name": "sports",
+      "name": "performance",
       "keywords": [
-        "go hawks",
-        "bring back the sonics"
       ]
     }
   ],
@@ -107,16 +101,30 @@
   ],
   "work": [
     {
-      "company": "Coding with Kids",
-      "position": "Instructor",
+      "company": "Influence Mobile Inc.",
+      "position": "Software Engineer",
       "website": "",
-      "startDate": "2017-10-01",
-      "endDate": "2018-01-01",
-      "summary": "Lead Instructor for several classes in Redmond, WA area",
+      "startDate": "2019-02-01",
+      "endDate": "Present",
+      "summary": "",
       "highlights": [
-        "Lead lessons and discussions on computer programming for 10-15 students",
-        "Plan and create lessons tailored around class skill level",
-        "Assess student progress and adjust to optimize learning"
+        "Maintain several APIs and drive scaleability by moving functionality to serverless architecture.",
+        "Architect new features that contribute to company success.",
+        "Find and fix bugs reported to support engineers by customers.",
+        "Maintain legacy code."
+      ]
+    },
+    {
+      "company": "Sportsrocket Inc.",
+      "position": "Software Engineer",
+      "website": "",
+      "startDate": "2018-08-01",
+      "endDate": "2019-01-01",
+      "summary": "",
+      "highlights": [
+        "Take ownership in small to medium sized features. Includes end-to end testing and deployment of features through AWS.",
+        "Work with other engineers to unblock issues in testing and debugging.",
+        "Ability to write and understand code in difference languages while learning on the fly to bolster knowledge in a certain technology."
       ]
     },
     {
@@ -133,59 +141,22 @@
       ]
     },
     {
-      "company": "Sportsrocket Inc.",
-      "position": "Software Engineer",
+      "company": "Coding with Kids",
+      "position": "Instructor",
       "website": "",
-      "startDate": "2018-08-01",
-      "endDate": "2019-01-01",
-      "summary": "",
+      "startDate": "2017-10-01",
+      "endDate": "2018-01-01",
+      "summary": "Lead Instructor for several classes in Redmond, WA area",
       "highlights": [
-        "Take ownership in small to medium sized features. Includes end-to end testing and deployment of features through AWS.",
-        "Work with other engineers to unblock issues in testing and debugging.",
-        "Ability to write and understand code in difference languages while learning on the fly to bolster knowledge in a certain technology."
+        "Lead lessons and discussions on computer programming for 10-15 students",
+        "Plan and create lessons tailored around class skill level",
+        "Assess student progress and adjust to optimize learning"
       ]
     }
   ],
   "volunteer": [
-    {
-      "organization": "Center for Renewable Energy and Island Sustainability",
-      "website": "http://manoa.hawaii.edu/reis",
-      "position": "Software Developer",
-      "startDate": "2016-01-01",
-      "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
-      "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
-      ]
-    },
-    {
-      "organization": "",
-      "website": "",
-      "position": "Professional organization involvement",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
-      "highlights": [
-        "Chair, ACM Manoa, 2016-Present",
-        "Member, IEEE Student Branch, 2014-Present",
-        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
-      ]
-    }
   ],
   "awards": [
-    {
-      "title": "B+ Scholarship",
-      "date": "2013-Present",
-      "awarder": "State of Hawaii",
-      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
-    },
-    {
-      "title": "First place",
-      "date": "2015",
-      "awarder": "University of Hawaii Micromouse Competition",
-      "summary": "My team won first place in 2015.  See my portfolio site for more details."
-    }
   ],
   "references": [
     {
