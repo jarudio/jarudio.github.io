@@ -1,58 +1,67 @@
 {
   "basics": {
-    "name": "Molly Maluhia",
-    "label": "Student",
-    "picture": "https://techfolios.github.io/template/images/molly.png",
-    "email": "molly@hawaii.edu",
-    "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2020.",
+    "name": "Joshua Rudio",
+    "label": "Software Engineer",
+    "picture": "https://jarudio.github.io/images/headshot.png",
+    "email": "joshuarudio@gmail.com",
+    "phone": "206-919-6446",
+    "website": "https://jarudio.github.io",
+    "summary": "I am a software engineer specializing in Backend Engineering work in Ruby on Rails.",
     "location": {
       "address": "",
-      "postalCode": "96822",
-      "city": "Honolulu",
+      "postalCode": "98005",
+      "city": "Bellevue",
       "countryCode": "USA",
-      "region": "Hawaii"
+      "region": "Washington"
     },
     "profiles": [
       {
         "network": "github",
-        "username": "mmaluhia",
-        "url": "http://github.com/changeme"
+        "username": "jarudio",
+        "url": "http://github.com/jarudio"
       },
       {
         "network": "linkedin",
-        "username": "mollymaluhia",
-        "url": "http://linkedin.com/in/changeme"
+        "username": "Joshua Rudio",
+        "url": "http://linkedin.com/in/joshua-rudio"
       },
       {
         "network": "twitter",
-        "username": "mollymal",
-        "url": "http://twitter.com/changeme"
+        "username": "TRUFLIPx",
+        "url": "http://twitter.com/TRUFLIPx"
       },
       {
         "network": "instagram",
-        "username": "molly",
-        "url": "http://instagram.com/changeme"
+        "username": "joshua_from_seattle",
+        "url": "http://instagram.com/joshua_from_seattle"
+      },
+      {
+        "network": "twitch",
+        "username": "TRUFLIPx",
+        "url": "https://twitch.com/TRUFLIPx"
       }
     ]
   },
   "interests": [
     {
-      "name": "internet of things",
+      "name": "video games",
       "keywords": [
-        "Arduino",
-        "TI MSP430"
+        "Playing and Creating",
+        "Casual Twitch Streamer"
       ]
     },
     {
-      "name": "data mining",
+      "name": "music",
       "keywords": [
+        "Guitar",
+        "avid rap, metal, and country fan"
       ]
     },
     {
-      "name": "artificial intelligence",
+      "name": "sports",
       "keywords": [
+        "go hawks",
+        "bring back the sonics"
       ]
     }
   ],
@@ -61,12 +70,14 @@
       "name": "Languages and Frameworks",
       "level": "",
       "keywords": [
-        "C",
-        "C++",
-        "Java",
-        "Javascript",
-        "Assembly",
-        "Common Lisp"
+        "Ruby",
+        "Ruby on Rails",
+        "PostgreSQL",
+        "JavaScript",
+        "React",
+        "HTML/CSS",
+        "HAML",
+        "Python"
       ]
     },
     {
@@ -76,18 +87,19 @@
         "MacOS",
         "Ubuntu",
         "Git/GitHub",
-        "g++",
-        "TI LaunchPad"
+        "Windows 10",
+        "RubyMine",
+        "DataGrip"
       ]
     }
   ],
   "education": [
     {
-      "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
-      "studyType": "B.S.",
-      "startDate": "2013-09-01",
-      "endDate": "Present",
+      "institution": "Dev Bootcamp, Seattle, WA",
+      "area": "Full Stack Web Development",
+      "studyType": "Certification",
+      "startDate": "2017-03-01",
+      "endDate": "2017-08-01",
       "gpa": "",
       "courses": [
       ]
@@ -95,27 +107,42 @@
   ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
+      "company": "Coding with Kids",
+      "position": "Instructor",
       "website": "",
-      "startDate": "2015-08-01",
-      "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
+      "startDate": "2017-10-01",
+      "endDate": "2018-01-01",
+      "summary": "Lead Instructor for several classes in Redmond, WA area",
       "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
+        "Lead lessons and discussions on computer programming for 10-15 students",
+        "Plan and create lessons tailored around class skill level",
+        "Assess student progress and adjust to optimize learning"
       ]
     },
     {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
-      "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
+      "company": "Microsoft (Inconsulting Inc.)",
+      "position": "Cloud Support Engineer",
+      "website": "https://www.microsoft.com/en-us/leap/",
+      "startDate": "2018-02-01",
+      "endDate": "2018-06-15",
+      "summary": "Apprenticeship thru Mircrosoft LEAP program",
+      "highlights": [
+        "Work side by side with tenured Azure Support Engineers in delivering high quality technical support to Azure's top consumers.",
+        "Become a subject matter expert in a specific service in order to bolster the teams overall technical breadth and depth.",
+        "Enhance customer experience and build a trusting relationship by delivering solutions with compassion and knowledge."
+      ]
+    },
+    {
+      "company": "Sportsrocket Inc.",
+      "position": "Software Engineer",
+      "website": "",
+      "startDate": "2018-08-01",
+      "endDate": "2019-01-01",
       "summary": "",
       "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
+        "Take ownership in small to medium sized features. Includes end-to end testing and deployment of features through AWS.",
+        "Work with other engineers to unblock issues in testing and debugging.",
+        "Ability to write and understand code in difference languages while learning on the fly to bolster knowledge in a certain technology."
       ]
     }
   ],
