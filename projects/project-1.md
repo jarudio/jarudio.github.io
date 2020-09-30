@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/bootcampr.jpg
+image: images/bootcampr.png
 title: Bootcampr
 permalink: projects/bootcampr
 # All dates must be YYYY-MM-DD format!
